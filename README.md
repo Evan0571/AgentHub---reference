@@ -139,7 +139,7 @@ flowchart TD
 
 ### Overview
 
-This repository is a **source-first snapshot of the Claude Code `src/` tree**, focused on the implementation details that make a serious AI coding product work inside the terminal.  
+This repository is a **source-first snapshot of the `src/` tree**, focused on the implementation details that make a serious AI coding product work inside the terminal.  
 From the code layout, this is clearly more than a thin wrapper around an LLM API. It includes a substantial command system, a React + Ink terminal UI, rich tool orchestration, plugin loading, MCP connectivity, multi-agent execution, permission enforcement, remote control plumbing, memory/session infrastructure, voice-related modules, and a broad set of production-oriented utilities.
 
 If you're interested in any of the following, this codebase is especially useful:
