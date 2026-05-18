@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**A source-first snapshot of the Claude Code `src/` tree**
+**A source-first snapshot of `src/` tree**
 
 *Terminal-native AI coding, tool orchestration, MCP integration, plugin loading, permission enforcement, multi-agent collaboration, and remote control infrastructure in one codebase.*
 
